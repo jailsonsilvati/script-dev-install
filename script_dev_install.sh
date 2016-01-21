@@ -1,14 +1,19 @@
 #!/bin/bash
 
 # Script para desenvolvedores web e android no Ubuntu/ElementaryOS
-# Criado por Marcus Silva
-# Baseado no script_dev de Willian Justen
+# Criado por Willian Justen
+# Atualizado por Marcus Silva
+
+# Esse script foi escrito usando o zenity e tem
+# o objetivo de agilizar a instalação de programas
+# básicos no mundo do desenvolvimento web atual.
+# É um script bem básico e rápido, sugestões são bem vindas =)
 
 # Esse script foi escrito usando o zenity e tem o objetivo de agilizar a instalação de programas
 
 
 
-zenity --info --title "Script Web Development" --text "Este é um script simples para instalação de ferramentas úteis para Desenvolvimento Web e do ambiente do Ubuntu. \n\nCriado por: Marcus Silva"
+zenity --info --title "Script Web Development" --text "Este é um script simples para instalação de ferramentas úteis para Desenvolvimento Web e do ambiente do Ubuntu. \n\natualizado por: Marcus Silva"
 resposta=$(zenity  --list  --text "Escolha os pacotes que deseja instalar." --checklist  --column "Instalar" --column "Id" --column "Pacote"\
     FALSE "a" "Restricted-Extras (Codecs de áudio e vídeo, plugin flash, java entre outros)"\
     FALSE "b" "Gimp (Editor de Imagens)"\
