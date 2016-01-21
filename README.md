@@ -1,4 +1,4 @@
-## Programas e aplicativos
+## Aplicativos
 
   * Restricted-Extras (Codecs de áudio e vídeo, plugin flash, java entre outros)
   * Gimp (Editor de Imagens)
