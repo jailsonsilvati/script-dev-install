@@ -28,7 +28,7 @@
 Navegue até o diretório e execute os comandos abaixo.
 
 ```sh
-chmod +x script_dev_install.sh.sh
+chmod +x script_dev_install.sh
 ```
 
 Após isso, execute o arquivo:
