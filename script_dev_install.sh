@@ -151,7 +151,7 @@ if [[ $resposta =~ "s" ]]; then
   sudo apt-get install thunderbird
 fi
 
-if [[ $resposta =~ "t"]]; then
+if [[ $resposta =~ "t" ]]; then
   sudo apt-get install oracle-java8-installer
   sudo apt-get install default-jdk  
 fi
