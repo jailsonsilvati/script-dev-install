@@ -1,9 +1,9 @@
-## Aplicativos
+## Apps
 
-  * Restricted-Extras (Codecs de áudio e vídeo, plugin flash, java entre outros)
-  * Gimp (Editor de Imagens)
-  * Inkscape (Editor de Vetores)
-  * Imagemagick (Editor de Imagens via Terminal)
+  * Restricted-Extras (Codecs audio and video, plugin flash, java, etc.)
+  * Gimp (Image Editor)
+  * Inkscape (Vector Editor)
+  * Imagemagick (Terminal Image Editor Editor)
   * Terminator
   * Sublime Text 3
   * Atom
@@ -23,18 +23,18 @@
   * Extras apenas para Elementary OS
   * NodeJS / Yo / Gulp / Bower / Webpack / Nodemon
 
-## Instalação
+## Install
 
-Navegue até o diretório e execute os comandos abaixo.
+Navigate to the directory and run the following commands.
 
 ```sh
 chmod +x script_dev_install.sh
 ```
 
-Após isso, execute o arquivo:
+Run the file:
 
 ```sh
 ./script_dev_install.sh
 ```
 
-> Baseado no [script-dev](https://github.com/willianjusten/script-dev) de [Willian Justen](https://github.com/willianjusten)
+> Based on [script-dev](https://github.com/willianjusten/script-dev) de [Willian Justen](https://github.com/willianjusten)
