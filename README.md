@@ -37,4 +37,4 @@ Run the file:
 ./script_dev_install.sh
 ```
 
-> Based on [script-dev](https://github.com/willianjusten/script-dev) de [Willian Justen](https://github.com/willianjusten)
+> Based on [script-dev](https://github.com/willianjusten/script-dev) in [Willian Justen](https://github.com/willianjusten)
